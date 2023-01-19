@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "makevision-ng": {
+      "commandName": "Project",
+      "commandLineArgs": "test.gif"
+    }
+  }
+}
